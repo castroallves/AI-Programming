@@ -1,0 +1,10 @@
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\bin\Debug\ReconhecimentoDeLetras.exe.config
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\bin\Debug\ReconhecimentoDeLetras.exe
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\bin\Debug\ReconhecimentoDeLetras.pdb
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\obj\Debug\ReconhecimentoDeLetras.csprojAssemblyReference.cache
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\obj\Debug\ReconhecimentoDeLetras.Properties.Resources.resources
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\obj\Debug\ReconhecimentoDeLetras.csproj.GenerateResource.cache
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\obj\Debug\ReconhecimentoDeLetras.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\obj\Debug\ReconhecimentoDeLetras.exe
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\obj\Debug\ReconhecimentoDeLetras.pdb
+C:\Users\Pedro\Ensino Remoto\AMAQ\Trabalho IV\Reconhecimento de Letras\ReconhecimentoDeLetras\obj\Debug\ReconhecimentoDeLetras.Perceptrons.resources
