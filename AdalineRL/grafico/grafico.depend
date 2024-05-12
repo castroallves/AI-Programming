@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1621272990 source:c:\users\pedro\ensino remoto\amaq\nova pasta\grafico\main.c
+	"pbPlots.h"
+	"supportLib.h"
+
+1588683711 source:c:\users\pedro\desktop\c\pbplots.c
+	"pbPlots.h"
+
+1588683711 c:\users\pedro\desktop\c\pbplots.h
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+
+1588683711 source:c:\users\pedro\desktop\c\supportlib.c
+	"supportLib.h"
+
+1588683711 c:\users\pedro\desktop\c\supportlib.h
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620820781 source:c:\users\pedro\ensino remoto\amaq\nova pasta\adalinerl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1620767852 source:c:\users\pedro\ensino remoto\amaq\nova pasta\adalinerl\untitled2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

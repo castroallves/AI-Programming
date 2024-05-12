@@ -1,0 +1,83 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TCC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Template para TCC da Universidade Federal da Paraíba
+%
+% Autores: Elaine Soares elaineanita1@gmail.com
+%          Rafael Brayner rafabrayner92@gmail.com
+%          Roberto Júnior contato@robertojunior.net
+%
+% ShareLaTeX porting: Gustavo Sobral ghsobral@gmail.com
+% 
+% Revisão: Eudisley Anjos eudisley@ci.ufpb.br
+%
+% Sinta-se livre para melhorar e contribuir com esse projeto. 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{tcc}
+\bibliographystyle{plain}
+\usepackage{etoolbox}
+\usepackage{ragged2e} 
+\usepackage{siunitx}
+\justifying
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
+\usepackage{titlesec}
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{7}
+ \usepackage{mathptmx} 
+\usepackage[linkcolor = black, colorlinks = true,citecolor=black,urlcolor=blue,bookmarks=false,hypertexnames=false]{hyperref} 
+\linespread{1.25}
+
+\begin{document}
+\pagestyle{empty} %retira numeração da página
+\input{dados_tcc}
+
+\begin{center}
+\Huge{\bf \thetitle}\\~\\
+\begin{figure}[H]
+\centering
+\includegraphics{imagens/UFU.png}
+\end{figure}
+\huge{\bf \subtitulo}\\~\\
+\Large{\bf Trabalho VII} \\
+Regressão Linear com Adaline\\~\\
+
+\end{center}
+
+\vspace{2em}
+
+\begin{center}
+Prof.: Dr. Keiji Yamanaka
+
+\end{center}
+
+\vspace{2em}
+\begin{table}[htb]
+\centering
+\begin{tabular}{ccc}
+Aluno                           &  & Matrícula   \\
+                                &  &             \\
+Pedro Paulo Costa Castro Alves  &  & 11721ECP017 \\
+\end{tabular}
+\end{table}
+
+
+\vspace{5cm}
+
+
+\begin{center}
+Uberlândia, 11 de Maio de 2021
+\end{center}
+\clearpage
+\setcounter{page}{1}
+
+
+%Índice%
+
+\pagestyle{plain} %mostra numeração da página%
+
+\newpage
+\input{2_intro}
+\input{3_objetivos}
+
+\end{document}
