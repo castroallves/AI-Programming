@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623941354 source:c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\mlp v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"pbPlots.h"
+	"supportLib.h"
+

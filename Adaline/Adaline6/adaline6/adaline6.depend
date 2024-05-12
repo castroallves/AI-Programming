@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1623793229 source:c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\adaline6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"pbPlots.h"
+	"supportLib.h"
+
+1588683711 c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\adaline6\pbplots.h
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+
+1588683711 c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\adaline6\supportlib.h
+	<stdlib.h>
+	<stdio.h>
+
+1623788324 source:c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\adaline6\c\pbplots.c
+	"pbPlots.h"
+
+1588683711 source:c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\adaline6\c\supportlib.c
+	"supportLib.h"
+

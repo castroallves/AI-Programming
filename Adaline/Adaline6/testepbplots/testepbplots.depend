@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1623784818 source:c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\testepbplots\main.c
+	"pbPlots.h"
+	"supportLib.h"
+
+1588683711 c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\testepbplots\pbplots.h
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+
+1588683711 c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\testepbplots\supportlib.h
+	<stdlib.h>
+	<stdio.h>
+
+1588683711 source:c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\testepbplots\supportlib.c
+	"supportLib.h"
+
+1588683711 source:c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\testepbplots\pbplots.c
+	"pbPlots.h"
+

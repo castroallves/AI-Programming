@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623724731 source:c:\users\pedro\ensino remoto\amaq\trabalho vi\adaline6\adalinecpp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio2.h>
+
